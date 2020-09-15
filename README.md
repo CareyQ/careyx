@@ -1,3 +1,3 @@
 # careyx
 
-[CareyQ](careyq.cool) 站点资源 CDN
+[CareyQ](https://careyq.cool) 站点资源 CDN
